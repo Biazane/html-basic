@@ -35,11 +35,13 @@ nav {
 }
 
 .item a {
-    color: #fff;
+    color: rgb(57, 173, 240);
     text-decoration: none;
 }
 
 .item a:hover {
-    color: #b9aeae;
-    transition: .5s;
+    color: #7a06ff;
+    transition: .7s;
 }
+
+#logo-2 {margin-left: 10px;}
